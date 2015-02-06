@@ -1,8 +1,3 @@
-#include <iostream>
-#include <cstdio>
-#include <string>
-using namespace std;
-
 /*
 Author: Alfredo Zellek
 
@@ -74,6 +69,10 @@ what about the relation between x and w? we don't know! we must do a character b
 Here, we set L = i and R = |B|, and do comparison. 
 
 */
+#include <iostream>
+#include <cstdio>
+#include <string>
+using namespace std;
 
 string s;
 int z[100001];
