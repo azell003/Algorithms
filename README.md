@@ -1,4 +1,4 @@
 Algorithms
 ==========
 
-Library of algorithms for programming competitions
+Library of algorithms and data structures for programming competitions
